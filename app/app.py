@@ -74,9 +74,12 @@ class App(QtWidgets.QWidget): #herite de qwidget...
         background-color: rgb(30, 30, 30);
         color: rgb(240, 240, 240);
         border: 1px solid orange;
+        padding: 10px;
         text-align: center;
+        font-size: 16px;
+        font-weight: bold;
         """)
-        self.btn_inverser.setStyleSheet("background-color: orange; color:black; ")
+        self.btn_inverser.setStyleSheet("background-color: orange; color:black; border: 1px ridge white")
 
 
 
