@@ -10,3 +10,8 @@ dossier /env : l'environnement, python3.8 avec deux packages
 
 
 ## creation de l'interface graphique
+    avec modification css
+
+## connection des fonctions sur les elements de l'interface
+
+## Fonctions
